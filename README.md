@@ -36,15 +36,15 @@ My first Android project built using Android Studio and core Android libraries.
 
 ## 🚀 Deployment
 The portfolio is hosted on **GitHub Pages**.  
-You can view it live here: [🔗 Live Demo](https://your-username.github.io/your-repo-name)
+You can view it live here: [🔗 Live Demo](https://tasneemsd.github.io/Portfolio)
 
 ---
 
 ## 📧 Contact
 Feel free to connect with me for collaboration or opportunities!  
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** (https://www.linkedin.com/in/tasneem-banu-syed-21144b362/)
+- **Email:** tasneembanu2005@gmail.com
+- **LinkedIn:**  (https://www.linkedin.com/in/tasneem-banu-syed-21144b362/)
 - **GitHub:** (https://github.com/Tasneemsd)  
 
 ---
